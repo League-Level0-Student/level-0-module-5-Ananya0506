@@ -24,9 +24,23 @@ public class ForLoopGauntlet {
 	
 	//3.
 	
+	//for(int i = 0; i<10; i++) {
+	//	for(int a = 1; a<11; a++) {
+	//		System.out.print(a+(i*10)+" ");
+	//	}
+	//System.out.println();
+	//}
 	
-	
-	
+	//4. 
+		
+		//int numStars = 1;
+		//for(int i = 0; i<6; i++) {
+		//	for(int a = 0; a<numStars; a++) {
+		//		System.out.print("*");
+		//}
+	//System.out.println();
+	//		numStars++;
+	//	}
 	
 	
 	

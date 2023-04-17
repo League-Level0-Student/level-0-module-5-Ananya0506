@@ -27,6 +27,8 @@ public class IntroToMethods {
 	public static void main(String[] args) {
 		// Method1
 		method1();
+		
+		
 
 		// Method2
 		String output2 = method2();
